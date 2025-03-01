@@ -59,35 +59,6 @@ def min_window(s: str, t: str) -> str:
     return s[min_start : min_start + min_length] if min_length != float("inf") else ""
 
 
-def min_window_2(s: str, t: str) -> str:
-    """
-    Optimized Solution using Sliding Window and Counter
-
-    Simple explanation:
-    Imagine you're looking through a bookshelf (string s) to find specific books (characters in t).
-    1. We use a window (like a frame) that can expand and shrink
-    2. We move the right side of frame until we find all books we need
-    3. Then we try to shrink it from left to make it as small as possible
-    4. We keep track of the smallest valid window we've found
-    """
-    need = {}
-    counter = len(t)
-    min_length = float("inf")
-    for c in t:
-        need[c] = need.get(c, 0) + 1
-
-    left = 0
-    for right, char in enumerate(s):
-        if char in need:
-            need[char] -= 1
-            if need[char] == 0:
-                counter -= 1
-
-        # print(current_chars)
-
-    return "BANC"
-
-
 # Test cases
 def test_min_window():
     assert min_window("ADOBECODEBANC", "ABC") == "BANC"
