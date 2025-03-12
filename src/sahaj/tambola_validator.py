@@ -77,12 +77,16 @@ class TambolaValidator:
 
         # Check if last number contributes to the win
         if not self._is_number_in_relevant_line(ticket, last_number, claim_type):
-            print(f"Rejected: Last number {last_number} does not contribute to {claim_type}")
+            print(
+                f"Rejected: Last number {last_number} does not contribute to {claim_type}"
+            )
             return REJECTED
 
         validation_result = self._claim_validators[claim_type](ticket, crossed_numbers)
-        print(f"Claim validation result: {'Accepted' if validation_result else 'Rejected'}")
-        
+        print(
+            f"Claim validation result: {'Accepted' if validation_result else 'Rejected'}"
+        )
+
         return ACCEPTED if validation_result else REJECTED
 
     def _is_number_in_relevant_line(

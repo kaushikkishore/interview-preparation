@@ -14,6 +14,27 @@ from tambola_consts import (
 # Example usage
 validator = TambolaValidator()
 
+
+"""
+Diagonal means 
+00 - 00, 11, 21
+01 - 12, 23
+
+
+left 
+04 - fro each row  - reduce -1 column and -1 row 
+first cordinate 
+on first cordinate reduce one more time 
+
+
+right 
+increase column 1 + increase row by 1 
+increase column 2 + increase row by 2 
+
+for middle row middle element 
+last_element 
+"""
+
 # Test case 1 from readme
 ticket = [
     [4, 16, "_", "_", 48, "_", 63, 76, "_"],
