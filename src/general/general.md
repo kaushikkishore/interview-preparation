@@ -17,6 +17,7 @@
 14. [How do you stay updated on the latest infrastructure technologies and ensure your team adopts best practices?](#q14)
 15. [Why are you looking to leave your current job?](#q15)
 16. [What are your salary expectations for this role?](#q16)
+17. [Where do you see yourself in the next 3-5 years?](#q17)
 
 ---
 
@@ -88,3 +89,7 @@ This helps me identify emerging trends and best practices that we can adopt in o
 ### <a name="q16"></a>16. "What are your salary expectations for this role?"
 **Answer:**  
 "Currently, I'm earning XX LPA in my role at Astuto AI, and I understand IBM has a similar budget for this position. While compensation is important, my primary motivation for considering this move is the nature of the work and the impact I can make. I'm really excited about the opportunity to contribute to building the load balancer for IBM Cloud—a critical piece of infrastructure that will serve multiple teams and users. That kind of scale and responsibility is incredibly appealing to me. Additionally, IBM's recent acquisitions, like Kubecost and its collaboration with Terraform through HashiCorp, have caught my attention. I've worked extensively with Terraform and Kubernetes in my projects, such as CloudScope and CostGuard, and I see this as a chance to leverage that expertise in a cutting-edge environment. So, while I'd hope for a package that reflects my experience and the value I bring—ideally around or slightly above my current XX LPA—I'm more focused on the role's alignment with my skills and the chance to grow with IBM's innovative ecosystem."
+
+### <a name="q17"></a>17. "Where do you see yourself in the next 3-5 years?"
+**Answer:**  
+"In the next 3-5 years, I'm aspiring to grow deeper into technical roles, ideally progressing toward an architect-level path where I can design and shape complex systems. I've always been passionate about understanding the nuts and bolts of infrastructure—whether it's optimizing AWS costs like I did with CostGuard or building scalable tools like CloudScope. In India, I've noticed that many companies tend to push senior engineers toward engineering management or managerial roles after a certain point, which is valuable but not where my strengths lie. I thrive when I'm hands-on, solving intricate problems, and driving technical innovation. That's why I'm excited about this role at IBM—contributing to the load balancer for IBM Cloud feels like a perfect fit, offering the chance to work on impactful, large-scale systems while deepening my expertise. IBM's reputation for supporting technical career tracks, especially with its focus on cloud and acquisitions like Terraform and Kubecost, makes it an ideal place for me to grow as an architect and contribute meaningfully without pivoting away from my technical roots."
