@@ -16,6 +16,7 @@
 13. [How would you handle a situation where a stakeholder insists on a tight deadline for an infrastructure project that your team believes is unrealistic?](#q13)
 14. [How do you stay updated on the latest infrastructure technologies and ensure your team adopts best practices?](#q14)
 15. [Why are you looking to leave your current job?](#q15)
+16. [What are your salary expectations for this role?](#q16)
 
 ---
 
@@ -83,3 +84,7 @@ This helps me identify emerging trends and best practices that we can adopt in o
 ### <a name="q15"></a>15. "Why are you looking to leave your current job?"
 **Answer:**  
 "In my current role at Astuto AI, I've had the opportunity to wear multiple hats—working as a support engineer, diving into product research and analysis, and leading development efforts. This variety has been a great learning experience and has strengthened my adaptability and problem-solving skills. However, recently, the scope has stretched my bandwidth thin. I'm juggling these diverse responsibilities alongside my core day-to-day tasks, and the expectations from stakeholders are to deliver on both the side projects and my primary work simultaneously. While I thrive in dynamic environments, I've realized this split focus is limiting my ability to dive deep into complex engineering challenges and deliver the level of impact I'm capable of. I'm looking to transition to a role at IBM where I can channel my expertise in cloud infrastructure and distributed systems into a more focused scope, contributing to impactful projects with clear priorities, while still growing as a technical leader."
+
+### <a name="q16"></a>16. "What are your salary expectations for this role?"
+**Answer:**  
+"Currently, I'm earning XX LPA in my role at Astuto AI, and I understand IBM has a similar budget for this position. While compensation is important, my primary motivation for considering this move is the nature of the work and the impact I can make. I'm really excited about the opportunity to contribute to building the load balancer for IBM Cloud—a critical piece of infrastructure that will serve multiple teams and users. That kind of scale and responsibility is incredibly appealing to me. Additionally, IBM's recent acquisitions, like Kubecost and its collaboration with Terraform through HashiCorp, have caught my attention. I've worked extensively with Terraform and Kubernetes in my projects, such as CloudScope and CostGuard, and I see this as a chance to leverage that expertise in a cutting-edge environment. So, while I'd hope for a package that reflects my experience and the value I bring—ideally around or slightly above my current XX LPA—I'm more focused on the role's alignment with my skills and the chance to grow with IBM's innovative ecosystem."
